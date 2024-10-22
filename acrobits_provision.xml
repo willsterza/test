@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account>
+    <username>+27126788921</username>
+    <password>nUtehaqute4657@</password>
+    <auth_username>+27126788921@pp2.ims.telkom.co.za</auth_username>
+    <proxy>ipv.ne.telkomvoip.co.za</proxy>
+    <sip_port>5060</sip_port>
+    <transport>UDP</transport>
+    <stun_server></stun_server> <!-- Optional -->
+    <outbound_proxy></outbound_proxy> <!-- Optional -->
+    <display_name>Telkom VoIP</display_name>
+    <voicemail_number>*97</voicemail_number> <!-- Optional -->
+    <register_expire>300</register_expire>
+    <rtp_port>5000</rtp_port>
+    <enabled>true</enabled>
+</account>
